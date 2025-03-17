@@ -15,7 +15,7 @@ The slides of my talks may be used as a personal reference, but you are not allo
 
 I appreciate you sharing the link to my slides with a friend, colleague or a person benefit from my talks. I kindly ask you to refer to me as the owner. While sharing the slides, why not sharing a link to my website [wolkencode.de](https://wolkencocde.de), too? 🫶🏻
 
-## Found something?
+## Found any issue?
 You can send me an email to info(at)wolkencode.de
 
 
